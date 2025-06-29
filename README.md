@@ -50,17 +50,4 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
     ```sh
     npm start
     ```
-2. Open your browser and navigate to `http://localhost:3000`.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
-
+2. Open your browser and navigate to `http://localhost:5173`.
