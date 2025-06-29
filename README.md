@@ -37,7 +37,7 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
     ```
 2. Navigate to the project directory:
     ```sh
-    cd spotify-clone
+    cd CSI-Assignment4
     ```
 3. Install dependencies:
     ```sh
